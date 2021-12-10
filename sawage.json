@@ -1,0 +1,2424 @@
+{
+   "etag": "\"MjAyMS0xMi0xMFQwMjo1Nzo1NC4zMDBa\"",
+   "items": [
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTA1MDc0MzAwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2903961231390477614",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:57:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/2903961231390477614/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/2903961231390477614",
+         "title": "Activated sludge model",
+         "updated": "2021-12-09T18:57:54-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/activated-sludge-model.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTA1MDAxOTExCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4650476486316221978",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:56:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/4650476486316221978/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/4650476486316221978",
+         "title": "Activated sludge",
+         "updated": "2021-12-09T18:56:41-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/activated-sludge.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTA0OTE5MTQ5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "687267198981242660",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:55:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/687267198981242660/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/687267198981242660",
+         "title": "Adsorption/Bio-oxidation process",
+         "updated": "2021-12-09T18:55:19-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/adsorptionbio-oxidation-process.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTA0ODMwMzE0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8299666227870213928",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:53:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/8299666227870213928/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/8299666227870213928",
+         "title": "Advanced oxidation process",
+         "updated": "2021-12-09T18:53:50-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/advanced-oxidation-processes.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTA0NzIzMDM4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5531686320069317768",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:52:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/5531686320069317768/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/5531686320069317768",
+         "title": "Aerated lagoon",
+         "updated": "2021-12-09T18:52:03-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/aerated-lagoon.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTA0NjMwNzgxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7937584739268773370",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:50:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/7937584739268773370/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/7937584739268773370",
+         "title": "Aerobic granular reactor",
+         "updated": "2021-12-09T18:50:30-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/aerobic-granular-reactor.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTA0NTY5NjE4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1517013756807002387",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:49:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/1517013756807002387/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/1517013756807002387",
+         "title": "Aerobic treatment system",
+         "updated": "2021-12-09T18:49:29-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/aerobic-treatment-system.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTA0NDg5NTQ5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3599983023639055167",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:48:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/3599983023639055167/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/3599983023639055167",
+         "title": "Anaerobic clarigester",
+         "updated": "2021-12-09T18:48:09-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/anaerobic-clarigester.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTA0NDI5MTEwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2385734021620609563",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:47:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/2385734021620609563/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/2385734021620609563",
+         "title": "Anaerobic digester types",
+         "updated": "2021-12-09T18:47:09-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/anaerobic-digester-types.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTA0MzQyMjU4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2311798586292966054",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:45:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/2311798586292966054/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/2311798586292966054",
+         "title": "Anaerobic digestion",
+         "updated": "2021-12-09T18:45:42-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/anaerobic-digestion.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTA0MTQzMTIxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6877801573574751430",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:42:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/6877801573574751430/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/6877801573574751430",
+         "title": "Anaerobic filter",
+         "updated": "2021-12-09T18:42:23-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/anaerobic-filter.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTA0MDc5NTQ4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3104496986176282627",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:41:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/3104496986176282627/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/3104496986176282627",
+         "title": "Anaerobic lagoon",
+         "updated": "2021-12-09T18:41:19-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/anaerobic-lagoon.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTAzOTg0MDE0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2323746712280978064",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:39:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/2323746712280978064/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/2323746712280978064",
+         "title": "Anammox",
+         "updated": "2021-12-09T18:39:44-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/anammox.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTAzODk3NDQ1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2544061902317048516",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:38:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/2544061902317048516/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/2544061902317048516",
+         "title": "API oil–water separator",
+         "updated": "2021-12-09T18:38:17-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/api-oilwater-separator.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTAzODE2NDUxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "626435004298375423",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:36:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/626435004298375423/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/626435004298375423",
+         "title": "Belt filter",
+         "updated": "2021-12-09T18:36:56-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/belt-filter.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTAzNzE1Njg1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2776434348648692606",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:35:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/2776434348648692606/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/2776434348648692606",
+         "title": "Bioconversion of biomass to mixed alcohol fuels",
+         "updated": "2021-12-09T18:35:15-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/bioconversion-of-biomass-to-mixed.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTAzNjI2MzEzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4076301946429618532",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:33:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/4076301946429618532/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/4076301946429618532",
+         "title": "Biofilter",
+         "updated": "2021-12-09T18:33:46-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/biofilter.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTAzNTM5NDI5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3054251839324460537",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:32:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/3054251839324460537/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/3054251839324460537",
+         "title": "Bioreactor",
+         "updated": "2021-12-09T18:32:19-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/bioreactor.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTAzNDQyMzMxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1318136943137813201",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:30:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/1318136943137813201/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/1318136943137813201",
+         "title": "Bioretention",
+         "updated": "2021-12-09T18:30:42-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/bioretention.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTAzMzE2MTYyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4593579345515421592",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:28:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/4593579345515421592/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/4593579345515421592",
+         "title": "List of wastewater treatment technologies",
+         "updated": "2021-12-09T18:28:36-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/list-of-wastewater-treatment.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTAzMTk4MTc3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3751024352886410550",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:26:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/3751024352886410550/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/3751024352886410550",
+         "title": "Capacitive deionization",
+         "updated": "2021-12-09T18:26:38-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/capacitive-deionization.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTAzMTAwODkxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2520454596806993967",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:25:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/2520454596806993967/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/2520454596806993967",
+         "title": "Carbon filtering",
+         "updated": "2021-12-09T18:25:00-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/carbon-filtering.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTAzMDIzNDE0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3657064377101033105",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:23:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/3657064377101033105/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/3657064377101033105",
+         "title": "Cesspit",
+         "updated": "2021-12-09T18:23:43-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/cesspit.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTAyOTMzMzk4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1167050253636322416",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:22:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/1167050253636322416/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/1167050253636322416",
+         "title": "Flocculation",
+         "updated": "2021-12-09T18:22:13-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/flocculation.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTAyODQyMTIxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3491458042071742769",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:20:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/3491458042071742769/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/3491458042071742769",
+         "title": "Clarifier",
+         "updated": "2021-12-09T18:20:42-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/clarifier.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTAyNzQ1MDYzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3342922343161249847",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:19:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/3342922343161249847/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/3342922343161249847",
+         "title": "Coarse bubble diffusers",
+         "updated": "2021-12-09T18:19:05-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/coarse-bubble-diffusers.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTAyNjI4Mzk1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6654080474710144768",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:17:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/6654080474710144768/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/6654080474710144768",
+         "title": "Composting toilet",
+         "updated": "2021-12-09T18:17:08-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/composting-toilet.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTAyNTIxMzk4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1715582154715263487",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:15:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/1715582154715263487/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/1715582154715263487",
+         "title": "Constructed wetland",
+         "updated": "2021-12-09T18:15:21-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/constructed-wetland.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTAyNDA1MzE1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4719480026741444711",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:13:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/4719480026741444711/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/4719480026741444711",
+         "title": "Cross-flow filtration",
+         "updated": "2021-12-09T18:13:25-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/cross-flow-filtration.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTAyMjkzODYzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4954802512119897579",
+         "kind": "blogger#post",
+         "published": "2021-12-09T18:11:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/4954802512119897579/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/4954802512119897579",
+         "title": "Dark fermentation",
+         "updated": "2021-12-09T18:11:33-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/dark-fermentation.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTAwNDg2ODY4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6503351176953193480",
+         "kind": "blogger#post",
+         "published": "2021-12-09T17:41:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/6503351176953193480/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/6503351176953193480",
+         "title": "Decentralized wastewater system",
+         "updated": "2021-12-09T17:41:26-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/decentralized-wastewater-system.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTAwMzc5NzE4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "397781362503329517",
+         "kind": "blogger#post",
+         "published": "2021-12-09T17:39:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/397781362503329517/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/397781362503329517",
+         "title": "Diffuser (sewage)",
+         "updated": "2021-12-09T17:39:39-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/diffuser-sewage.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTAwMjgwNDY1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3253059754724340925",
+         "kind": "blogger#post",
+         "published": "2021-12-09T17:38:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/3253059754724340925/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/3253059754724340925",
+         "title": "Dissolved air flotation",
+         "updated": "2021-12-09T17:38:00-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/dissolved-air-flotation.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTAwMTk3NzAwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8563455062991345329",
+         "kind": "blogger#post",
+         "published": "2021-12-09T17:36:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/8563455062991345329/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/8563455062991345329",
+         "title": "Dissolved gas flotation",
+         "updated": "2021-12-09T17:36:37-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/dissolved-gas-flotation.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MTAwMTA4ODUxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4147892982342283116",
+         "kind": "blogger#post",
+         "published": "2021-12-09T17:35:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/4147892982342283116/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/4147892982342283116",
+         "title": "Desalination",
+         "updated": "2021-12-09T17:35:08-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/desalination.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDk5MzY1NTYyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1505443761618970763",
+         "kind": "blogger#post",
+         "published": "2021-12-09T17:22:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/1505443761618970763/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/1505443761618970763",
+         "title": "Distillation",
+         "updated": "2021-12-09T17:22:45-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/distillation.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDk5MjA1MDcxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7631741112492696049",
+         "kind": "blogger#post",
+         "published": "2021-12-09T17:20:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/7631741112492696049/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/7631741112492696049",
+         "title": "Electrocoagulation",
+         "updated": "2021-12-09T17:20:05-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/electrocoagulation.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDk5MTMzMDA3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6857303419237643966",
+         "kind": "blogger#post",
+         "published": "2021-12-09T17:18:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/6857303419237643966/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/6857303419237643966",
+         "title": "Electrodeionization",
+         "updated": "2021-12-09T17:18:53-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/electrodeionization.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDk4OTk3MTc2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1272009789371117920",
+         "kind": "blogger#post",
+         "published": "2021-12-09T17:16:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/1272009789371117920/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/1272009789371117920",
+         "title": "Electrodialysis",
+         "updated": "2021-12-09T17:16:37-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/electrodialysis.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDk4OTA5MzM5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3466135883260252685",
+         "kind": "blogger#post",
+         "published": "2021-12-09T17:15:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/3466135883260252685/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/3466135883260252685",
+         "title": "Electrolysis",
+         "updated": "2021-12-09T17:15:09-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/electrolysis.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDk4ODE1NjgzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "302201952082013388",
+         "kind": "blogger#post",
+         "published": "2021-12-09T17:13:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/302201952082013388/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/302201952082013388",
+         "title": "Enhanced biological phosphorus removal",
+         "updated": "2021-12-09T17:13:35-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/enhanced-biological-phosphorus-removal.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDk4NzEyNjA0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "977996660585021222",
+         "kind": "blogger#post",
+         "published": "2021-12-09T17:11:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/977996660585021222/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/977996660585021222",
+         "title": "Expanded granular sludge bed digestion",
+         "updated": "2021-12-09T17:11:52-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/expanded-granular-sludge-bed-digestion.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDk4NjI4ODI5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8865753763156134967",
+         "kind": "blogger#post",
+         "published": "2021-12-09T17:10:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/8865753763156134967/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/8865753763156134967",
+         "title": "Extended aeration",
+         "updated": "2021-12-09T17:10:28-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/extended-aeration.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDk3OTg4Njg1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1250744995998331838",
+         "kind": "blogger#post",
+         "published": "2021-12-09T16:59:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/1250744995998331838/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/1250744995998331838",
+         "title": "Facultative lagoon",
+         "updated": "2021-12-09T16:59:48-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/facultative-lagoon.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDk3NDg3ODI4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8307661565222217473",
+         "kind": "blogger#post",
+         "published": "2021-12-09T16:51:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/8307661565222217473/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/8307661565222217473",
+         "title": "Fenton's reagent",
+         "updated": "2021-12-09T16:51:27-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/fentons-reagent.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDk3NDAwNDA1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6059043438618145395",
+         "kind": "blogger#post",
+         "published": "2021-12-09T16:50:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/6059043438618145395/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/6059043438618145395",
+         "title": "Filtration",
+         "updated": "2021-12-09T16:50:00-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/filtration.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDk3MzA3NDIwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7845822969116166114",
+         "kind": "blogger#post",
+         "published": "2021-12-09T16:48:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/7845822969116166114/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/7845822969116166114",
+         "title": "Fine bubble diffusers",
+         "updated": "2021-12-09T16:48:27-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/fine-bubble-diffusers.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDk3MjIzMzYzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8880744405251991938",
+         "kind": "blogger#post",
+         "published": "2021-12-09T16:47:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/8880744405251991938/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/8880744405251991938",
+         "title": "Froth flotation",
+         "updated": "2021-12-09T16:47:03-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/froth-flotation.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDk2OTg5NTM0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "9205665642803333206",
+         "kind": "blogger#post",
+         "published": "2021-12-09T16:43:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/9205665642803333206/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/9205665642803333206",
+         "title": "Forward osmosis",
+         "updated": "2021-12-09T16:43:09-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/forward-osmosis.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDk2ODUyODUyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5045167427094766469",
+         "kind": "blogger#post",
+         "published": "2021-12-09T16:40:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/5045167427094766469/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/5045167427094766469",
+         "title": "Compost",
+         "updated": "2021-12-09T16:40:52-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/compost.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDk2Nzk0ODQwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2889617036798033171",
+         "kind": "blogger#post",
+         "published": "2021-12-09T16:39:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/2889617036798033171/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/2889617036798033171",
+         "title": "Hydrocyclone",
+         "updated": "2021-12-09T16:39:54-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/hydrocyclone.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDk2MTI2NjA1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8226433282460943681",
+         "kind": "blogger#post",
+         "published": "2021-12-09T16:28:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/8226433282460943681/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/8226433282460943681",
+         "title": "Imhoff tank",
+         "updated": "2021-12-09T16:28:46-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/imhoff-tank.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDMzNDE2MDcyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4940713186603890409",
+         "kind": "blogger#post",
+         "published": "2021-12-08T23:03:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/4940713186603890409/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/4940713186603890409",
+         "title": "Induced gas flotation",
+         "updated": "2021-12-08T23:03:36-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/induced-gas-flotation.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDI0NDM1NzY2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5316266563670890764",
+         "kind": "blogger#post",
+         "published": "2021-12-08T20:33:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/5316266563670890764/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/5316266563670890764",
+         "title": "Ion exchange",
+         "updated": "2021-12-08T20:33:55-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/ion-exchange.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDI0MzU0OTM1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7404878127167831697",
+         "kind": "blogger#post",
+         "published": "2021-12-08T20:32:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/7404878127167831697/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/7404878127167831697",
+         "title": "Lamella clarifier",
+         "updated": "2021-12-08T20:32:34-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/lamella-clarifier.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDI0MjY1OTY4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8707424179730026198",
+         "kind": "blogger#post",
+         "published": "2021-12-08T20:31:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/8707424179730026198/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/8707424179730026198",
+         "title": "Living Machine",
+         "updated": "2021-12-08T20:31:05-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/living-machine.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDI0MTk5NjU1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6411062896898624872",
+         "kind": "blogger#post",
+         "published": "2021-12-08T20:29:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/6411062896898624872/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/6411062896898624872",
+         "title": "Maceration (sewage)",
+         "updated": "2021-12-08T20:29:59-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/maceration-sewage.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDI0MTE1Mjg2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3713212023686779285",
+         "kind": "blogger#post",
+         "published": "2021-12-08T20:28:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/3713212023686779285/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/3713212023686779285",
+         "title": "Media filter",
+         "updated": "2021-12-08T20:28:35-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/media-filter.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDI0MDM3NjI5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4852636729229942129",
+         "kind": "blogger#post",
+         "published": "2021-12-08T20:27:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/4852636729229942129/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/4852636729229942129",
+         "title": "Membrane bioreactor",
+         "updated": "2021-12-08T20:27:17-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/membrane-bioreactor.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDIzOTQ4OTEyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7197398270854121145",
+         "kind": "blogger#post",
+         "published": "2021-12-08T20:25:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/7197398270854121145/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/7197398270854121145",
+         "title": "Membrane distillation",
+         "updated": "2021-12-08T20:25:48-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/membrane-distillation.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDIzNzMyNDUzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6428363133380261225",
+         "kind": "blogger#post",
+         "published": "2021-12-08T20:22:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/6428363133380261225/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/6428363133380261225",
+         "title": "Membrane fouling",
+         "updated": "2021-12-08T20:22:12-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/membrane-fouling.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDIzNjUxNDU4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3473660316384664937",
+         "kind": "blogger#post",
+         "published": "2021-12-08T20:20:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/3473660316384664937/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/3473660316384664937",
+         "title": "Microbial fuel cell",
+         "updated": "2021-12-08T20:20:51-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/microbial-fuel-cell.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDIzNTQ3MzI0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6243400957140165833",
+         "kind": "blogger#post",
+         "published": "2021-12-08T20:19:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/6243400957140165833/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/6243400957140165833",
+         "title": "Microflotation",
+         "updated": "2021-12-08T20:19:07-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/microflotation.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDE3MDA0ODY1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7731213534238898321",
+         "kind": "blogger#post",
+         "published": "2021-12-08T18:30:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/7731213534238898321/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/7731213534238898321",
+         "title": "Moving bed biofilm reactor",
+         "updated": "2021-12-08T18:30:04-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/moving-bed-biofilm-reactor.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDE2OTMzMTU4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6101703079816762184",
+         "kind": "blogger#post",
+         "published": "2021-12-08T18:28:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/6101703079816762184/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/6101703079816762184",
+         "title": "Nanotechnology",
+         "updated": "2021-12-08T18:28:53-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/nanotechnology.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDE2NjAzMzc5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1500625162317507940",
+         "kind": "blogger#post",
+         "published": "2021-12-08T18:23:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/1500625162317507940/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/1500625162317507940",
+         "title": "NERV (reactor)",
+         "updated": "2021-12-08T18:23:23-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/nerv-reactor.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDE2NTI5Njc1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8852421688202043243",
+         "kind": "blogger#post",
+         "published": "2021-12-08T18:22:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/8852421688202043243/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/8852421688202043243",
+         "title": "Oil–water separator",
+         "updated": "2021-12-08T18:22:09-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/oilwater-separator.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDE2NDQ4NTg2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7992869397745820458",
+         "kind": "blogger#post",
+         "published": "2021-12-08T18:20:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/7992869397745820458/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/7992869397745820458",
+         "title": "Organisms involved in water purification",
+         "updated": "2021-12-08T18:20:48-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/organisms-involved-in-water-purification.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDE2MzYxMjU4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5403043190577569916",
+         "kind": "blogger#post",
+         "published": "2021-12-08T18:19:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/5403043190577569916/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/5403043190577569916",
+         "title": "Photobioreactor",
+         "updated": "2021-12-08T18:19:21-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/photobioreactor.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDE2MjU1NDk2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3828525244456245249",
+         "kind": "blogger#post",
+         "published": "2021-12-08T18:17:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/3828525244456245249/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/3828525244456245249",
+         "title": "Reed bed",
+         "updated": "2021-12-08T18:17:35-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/reed-bed.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDE0NjYyNTA4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5201859994274135653",
+         "kind": "blogger#post",
+         "published": "2021-12-08T17:51:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/5201859994274135653/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/5201859994274135653",
+         "title": "Regenerative thermal oxidizer",
+         "updated": "2021-12-08T17:51:02-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/regenerative-thermal-oxidizer.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDE0NTAyNTM3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2546048335660357275",
+         "kind": "blogger#post",
+         "published": "2021-12-08T17:48:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/2546048335660357275/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/2546048335660357275",
+         "title": "Retention basin",
+         "updated": "2021-12-08T17:48:22-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/retention-basin.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDE0NDI5MTYzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1828268745044689540",
+         "kind": "blogger#post",
+         "published": "2021-12-08T17:47:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/1828268745044689540/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/1828268745044689540",
+         "title": "Reverse osmosis",
+         "updated": "2021-12-08T17:47:09-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/reverse-osmosis.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDE0MzMyNzQ1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6571000152576814599",
+         "kind": "blogger#post",
+         "published": "2021-12-08T17:45:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/6571000152576814599/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/6571000152576814599",
+         "title": "Rotating biological contactor",
+         "updated": "2021-12-08T17:45:32-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/rotating-biological-contactor.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDE0MjM2OTEzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8218869371629149182",
+         "kind": "blogger#post",
+         "published": "2021-12-08T17:43:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/8218869371629149182/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/8218869371629149182",
+         "title": "Sand filter",
+         "updated": "2021-12-08T17:43:56-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/sand-filter.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDEzNjcyMDk4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8801508998885712081",
+         "kind": "blogger#post",
+         "published": "2021-12-08T17:34:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/8801508998885712081/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/8801508998885712081",
+         "title": "Screen filter",
+         "updated": "2021-12-08T17:34:32-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/screen-filter.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDEzNjAyMTg0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4134489314223437042",
+         "kind": "blogger#post",
+         "published": "2021-12-08T17:33:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/4134489314223437042/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/4134489314223437042",
+         "title": "Sedimentation (water treatment)",
+         "updated": "2021-12-08T17:33:22-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/sedimentation-water-treatment.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDEzNDc4ODAxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4117908524358548532",
+         "kind": "blogger#post",
+         "published": "2021-12-08T17:31:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/4117908524358548532/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/4117908524358548532",
+         "title": "Septic tank",
+         "updated": "2021-12-08T17:31:18-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/septic-tank.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDEzMzQ4MDMzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4210796912518508817",
+         "kind": "blogger#post",
+         "published": "2021-12-08T17:29:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/4210796912518508817/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/4210796912518508817",
+         "title": "Sequencing batch reactor",
+         "updated": "2021-12-08T17:29:08-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/sequencing-batch-reactor.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDEzMjQzNzIzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7506885945721285810",
+         "kind": "blogger#post",
+         "published": "2021-12-08T17:27:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/7506885945721285810/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/7506885945721285810",
+         "title": "Sewage treatment",
+         "updated": "2021-12-08T17:27:23-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/sewage-treatment.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDEyOTI0ODY2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4015679162534625945",
+         "kind": "blogger#post",
+         "published": "2021-12-08T17:22:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/4015679162534625945/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/4015679162534625945",
+         "title": "Skimmer (machine)",
+         "updated": "2021-12-08T17:22:04-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/skimmer-machine.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDEyODM2MTQ3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7164605511603517397",
+         "kind": "blogger#post",
+         "published": "2021-12-08T17:20:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/7164605511603517397/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/7164605511603517397",
+         "title": "Slow sand filter",
+         "updated": "2021-12-08T17:20:36-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/slow-sand-filter.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDEyNzQ3ODQ2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4729979017135911040",
+         "kind": "blogger#post",
+         "published": "2021-12-08T17:19:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/4729979017135911040/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/4729979017135911040",
+         "title": "Waste stabilization pond",
+         "updated": "2021-12-08T17:19:07-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/waste-stabilization-pond.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDExMTU4ODYxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3530835070140189830",
+         "kind": "blogger#post",
+         "published": "2021-12-08T16:52:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/3530835070140189830/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/3530835070140189830",
+         "title": "Supercritical water oxidation",
+         "updated": "2021-12-08T16:52:38-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/supercritical-water-oxidation.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDExMDc1NDA5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1825237501084127609",
+         "kind": "blogger#post",
+         "published": "2021-12-08T16:51:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/1825237501084127609/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/1825237501084127609",
+         "title": "Thermal hydrolysis",
+         "updated": "2021-12-08T16:51:15-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/thermal-hydrolysis.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDExMDA3NjEyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4356345143583991298",
+         "kind": "blogger#post",
+         "published": "2021-12-08T16:50:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/4356345143583991298/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/4356345143583991298",
+         "title": "Trickle-bed reactor",
+         "updated": "2021-12-08T16:50:07-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/trickle-bed-reactor.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDEwOTE5NzA5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1388432237536076751",
+         "kind": "blogger#post",
+         "published": "2021-12-08T16:48:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/1388432237536076751/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/1388432237536076751",
+         "title": "Trickling filter",
+         "updated": "2021-12-08T16:48:39-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/trickling-filter.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDEwODI1MDYwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6274088474054574987",
+         "kind": "blogger#post",
+         "published": "2021-12-08T16:47:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/6274088474054574987/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/6274088474054574987",
+         "title": "Ultrafiltration",
+         "updated": "2021-12-08T16:47:05-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/ultrafiltration.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDEwNzAwNDgzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5225241917501191697",
+         "kind": "blogger#post",
+         "published": "2021-12-08T16:45:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/5225241917501191697/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/5225241917501191697",
+         "title": "Ultraviolet germicidal irradiation",
+         "updated": "2021-12-08T16:45:00-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/ultraviolet-germicidal-irradiation.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDEwNTgyMzYzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1148098116740535441",
+         "kind": "blogger#post",
+         "published": "2021-12-08T16:43:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/1148098116740535441/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/1148098116740535441",
+         "title": "Upflow anaerobic sludge blanket",
+         "updated": "2021-12-08T16:43:02-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/upflow-anaerobic-sludge-blanket.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDEwNDY2NjMxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "114625509068344595",
+         "kind": "blogger#post",
+         "published": "2021-12-08T16:41:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/114625509068344595/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/114625509068344595",
+         "title": "Vermifilter",
+         "updated": "2021-12-08T16:41:06-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/vermifilter.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDEwMzQxODY5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6171100395016778092",
+         "kind": "blogger#post",
+         "published": "2021-12-08T16:39:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/6171100395016778092/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/6171100395016778092",
+         "title": "Vacuum evaporation",
+         "updated": "2021-12-08T16:39:01-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/vacuum-evaporation.html"
+      },
+      {
+         "author": {
+            "displayName": "febyra",
+            "id": "17999838611123063685",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/17999838611123063685"
+         },
+         "blog": {
+            "id": "6348373891615126914"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM5MDEwMjU1NjkwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1810450596532194800",
+         "kind": "blogger#post",
+         "published": "2021-12-08T16:37:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/1810450596532194800/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/6348373891615126914/posts/1810450596532194800",
+         "title": "Wet oxidation",
+         "updated": "2021-12-08T16:37:35-08:00",
+         "url": "http://sewagetreatmentwiki.blogspot.com/2021/12/wet-oxidation.html"
+      }
+   ],
+   "kind": "blogger#postList"
+}
